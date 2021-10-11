@@ -129,12 +129,18 @@ h3 {
   }
 }
 
+/* CTA  */
 #cta {
   background-color: #ff4c68;
-  font-family: "Montserrat", sans-serif;
   text-align: center;
   color: #fff;
   padding: 3% 7%;
+}
+
+.cts-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
 }
 
 #footer {
@@ -143,5 +149,5 @@ h3 {
 }
 
 .bottom-icon {
-  margin-left: 1rem;
+  margin: 20px 10px;
 }
