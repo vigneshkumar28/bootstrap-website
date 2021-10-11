@@ -24,6 +24,8 @@ h2 {
 }
 h3 {
   font-family: "Montserrat-Bold";
+  size: 2.5rem;
+  line-height: 1.5;
 }
 
 .container-fluid {
@@ -125,4 +127,21 @@ h3 {
     position: static;
     transform: rotate(0);
   }
+}
+
+#cta {
+  background-color: #ff4c68;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  color: #fff;
+  padding: 3% 7%;
+}
+
+#footer {
+  text-align: center;
+  margin: 6%;
+}
+
+.bottom-icon {
+  margin-left: 1rem;
 }
